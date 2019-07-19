@@ -1,0 +1,14 @@
+C:\Mamun\ASP DotNetCore WebAPI\DotNetCoreWebAPI\DotNetCoreWebAPI\bin\Debug\netcoreapp2.1\DotNetCoreWebAPI.deps.json
+C:\Mamun\ASP DotNetCore WebAPI\DotNetCoreWebAPI\DotNetCoreWebAPI\bin\Debug\netcoreapp2.1\DotNetCoreWebAPI.runtimeconfig.json
+C:\Mamun\ASP DotNetCore WebAPI\DotNetCoreWebAPI\DotNetCoreWebAPI\bin\Debug\netcoreapp2.1\DotNetCoreWebAPI.runtimeconfig.dev.json
+C:\Mamun\ASP DotNetCore WebAPI\DotNetCoreWebAPI\DotNetCoreWebAPI\bin\Debug\netcoreapp2.1\DotNetCoreWebAPI.dll
+C:\Mamun\ASP DotNetCore WebAPI\DotNetCoreWebAPI\DotNetCoreWebAPI\bin\Debug\netcoreapp2.1\DotNetCoreWebAPI.pdb
+C:\Mamun\ASP DotNetCore WebAPI\DotNetCoreWebAPI\DotNetCoreWebAPI\obj\Debug\netcoreapp2.1\DotNetCoreWebAPI.csprojAssemblyReference.cache
+C:\Mamun\ASP DotNetCore WebAPI\DotNetCoreWebAPI\DotNetCoreWebAPI\obj\Debug\netcoreapp2.1\DotNetCoreWebAPI.csproj.CoreCompileInputs.cache
+C:\Mamun\ASP DotNetCore WebAPI\DotNetCoreWebAPI\DotNetCoreWebAPI\obj\Debug\netcoreapp2.1\DotNetCoreWebAPI.RazorAssemblyInfo.cache
+C:\Mamun\ASP DotNetCore WebAPI\DotNetCoreWebAPI\DotNetCoreWebAPI\obj\Debug\netcoreapp2.1\DotNetCoreWebAPI.RazorAssemblyInfo.cs
+C:\Mamun\ASP DotNetCore WebAPI\DotNetCoreWebAPI\DotNetCoreWebAPI\obj\Debug\netcoreapp2.1\DotNetCoreWebAPI.AssemblyInfoInputs.cache
+C:\Mamun\ASP DotNetCore WebAPI\DotNetCoreWebAPI\DotNetCoreWebAPI\obj\Debug\netcoreapp2.1\DotNetCoreWebAPI.AssemblyInfo.cs
+C:\Mamun\ASP DotNetCore WebAPI\DotNetCoreWebAPI\DotNetCoreWebAPI\obj\Debug\netcoreapp2.1\DotNetCoreWebAPI.RazorTargetAssemblyInfo.cache
+C:\Mamun\ASP DotNetCore WebAPI\DotNetCoreWebAPI\DotNetCoreWebAPI\obj\Debug\netcoreapp2.1\DotNetCoreWebAPI.dll
+C:\Mamun\ASP DotNetCore WebAPI\DotNetCoreWebAPI\DotNetCoreWebAPI\obj\Debug\netcoreapp2.1\DotNetCoreWebAPI.pdb
